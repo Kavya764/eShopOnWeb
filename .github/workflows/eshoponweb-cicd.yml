@@ -8,7 +8,7 @@ on:
 
 #Environment variables https://docs.github.com/en/actions/learn-github-actions/environment-variables
 env:
-RESOURCE-GROUP: rg-eshoponweb-RESOURCE-GROUP
+RESOURCE-GROUP: rg-eshoponwebjan1-RESOURCE-GROUP
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: SUBSCRIPTION-ID
